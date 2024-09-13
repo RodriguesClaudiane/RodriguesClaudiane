@@ -1,4 +1,4 @@
-# Olá humano, Seja bem vindo ao meu Git =)
+# Olá humano, Seja bem vindo ao meu GitHub =)
 ## Linguagens
 ![image](https://github.com/RodriguesClaudiane/RodriguesClaudiane/assets/113156051/a5bb11d1-f25c-406b-b5cd-26033c289cf7) <!-- javascript -->
 ![image](https://github.com/RodriguesClaudiane/RodriguesClaudiane/assets/113156051/af1f613e-728f-4ac1-89a2-8b59d1c5f063) <!-- java -->
