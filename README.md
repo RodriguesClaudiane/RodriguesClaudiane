@@ -10,13 +10,13 @@
 ## Frameworks
 
 ![image](https://github.com/RodriguesClaudiane/RodriguesClaudiane/assets/113156051/99e361b3-ac18-4139-997f-a53d16fbfd90)<!-- laravel -->
-![image](https://github.com/RodriguesClaudiane/RodriguesClaudiane/assets/113156051/84b5246e-ef61-4499-a222-a450e8ee22a0) <!-- react -->
 ![image](https://github.com/RodriguesClaudiane/RodriguesClaudiane/assets/113156051/0c32016e-cb6b-4949-8ca2-157098f8c9f6) <!-- vue -->
 
 ## Bibliotecas
 ![image](https://github.com/RodriguesClaudiane/RodriguesClaudiane/assets/113156051/86635002-5339-4e09-8980-9eff07d3d973)
 ![image](https://github.com/RodriguesClaudiane/RodriguesClaudiane/assets/113156051/c9d525cd-c4fd-4a6f-941d-d6a089aa514d)
 ![image](https://github.com/RodriguesClaudiane/RodriguesClaudiane/assets/113156051/bb58ed37-4a9f-4b06-b722-203a5cc544e1)
+![image](https://github.com/RodriguesClaudiane/RodriguesClaudiane/assets/113156051/84b5246e-ef61-4499-a222-a450e8ee22a0) <!-- react -->
 
 
 
