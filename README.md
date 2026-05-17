@@ -81,15 +81,3 @@ const claudiane = {
 <img src="https://img.shields.io/badge/Pinia-FADA5E?style=flat-square" />
 <img src="https://img.shields.io/badge/Vuex-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
 </p>
-
-<h3>Metodologias</h3>
-
-<p>
-<img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square" />
-<img src="https://img.shields.io/badge/XP-6DB33F?style=flat-square" />
-</p>
-
-<h3>Contato</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-claudiane--rodrigues-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/claudiane-rodrigues-979772220)
-[![Gmail](https://img.shields.io/badge/Gmail-claudianerodrigues365-D14836?style=flat&logo=gmail&logoColor=white)](mailto:claudianerodrigues365@gmail.com)
