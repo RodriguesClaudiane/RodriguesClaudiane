@@ -75,5 +75,5 @@ Sistema desenvolvido para acompanhamento de alunos egressos do IFPE.
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-claudiane--rodrigues-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/claudiane-rodrigues)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-claudiane--rodrigues-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/claudiane-rodrigues-979772220)
 [![Gmail](https://img.shields.io/badge/Gmail-claudianerodrigues365-D14836?style=flat&logo=gmail&logoColor=white)](mailto:claudianerodrigues365@gmail.com)
