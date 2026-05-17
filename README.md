@@ -26,7 +26,6 @@ Desenvolvendo interfaces modernas, acessíveis e funcionais.
 
 </div>
 
----
 
 <h2>✨ Sobre mim</h2>
 
@@ -39,7 +38,6 @@ const claudiane = {
 }
 </pre>
 
----
 
 <h2>🚀 Tecnologias</h2>
 
@@ -91,32 +89,7 @@ const claudiane = {
 <img src="https://img.shields.io/badge/XP-6DB33F?style=flat-square" />
 </p>
 
----
-
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodriguesClaudiane&show_icons=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriguesClaudiane&layout=compact&hide_border=true&title_color=8A2BE2" />
-
-</div>
-
----
-
-<div align="center">
-
-<h3>☕ Café, código e interfaces bonitas.</h3>
-
-</div>
-
-**Metodologias**
-`Scrum` `XP`
-
----
-
-## 📬 Contato
+<h3>Contato</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-claudiane--rodrigues-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/claudiane-rodrigues-979772220)
 [![Gmail](https://img.shields.io/badge/Gmail-claudianerodrigues365-D14836?style=flat&logo=gmail&logoColor=white)](mailto:claudianerodrigues365@gmail.com)
