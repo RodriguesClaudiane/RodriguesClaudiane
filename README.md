@@ -1,153 +1,79 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=700&pause=1000&color=13F700&width=435&lines=console.log(%22Hello++World!%22)" alt="Typing SVG" /></a>
 
-<p align="center">
-Desenvolvedora Web com foco em Front-End, apaixonada por criar interfaces modernas, acessíveis e funcionais.
-</p>
+# Claudiane Rodrigues Alves
 
-<p align="center">
-  <a href="https://github.com/RodriguesClaudiane">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/claudiane-rodrigues">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:claudianerodrigues365@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Desenvolvedora Front-End com experiência prática em React, Next.js, Vue.js e Nuxt.js, atuando em projetos reais com impacto social nas áreas de saúde, educação e acessibilidade. Exercei liderança técnica em múltiplos projetos acadêmicos, aplicando metodologias ágeis e integrando interfaces com back-end em Laravel.
 
 ---
 
-<h2>🚀 Sobre mim</h2>
+## 🛠 Tecnologias
 
-<p>
-Atualmente curso <strong>Tecnologia em Sistemas para Internet</strong> no IFPE – Campus Igarassu e atuo em projetos envolvendo React, Next.js, Vue.js e Nuxt.js.
-</p>
+**Front-End**
+`React` `Next.js` `Vue.js` `Nuxt.js` `TailwindCSS` `MUI` `Vuetify` `Bootstrap` `SCSS`
 
-<p>
-Tenho experiência com desenvolvimento de aplicações acadêmicas, projetos de acessibilidade e sistemas web voltados à automação.
-</p>
+**Linguagens**
+`JavaScript` `TypeScript` `PHP`
 
----
+**Integração & APIs**
+`Axios` `REST APIs` `Laravel` `Laravel Sanctum`
 
-<h2>🛠 Tecnologias e Ferramentas</h2>
+**Ferramentas**
+`Git` `GitHub` `Docker` `Linux`
 
-<h3>Front-End</h3>
+**Bibliotecas**
+`React Hook Form` `Zod` `Pinia` `Vuex`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,bootstrap" />
-</p>
-
-<h3>Back-End e APIs</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
-</p>
-
-<h3>Ferramentas</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
-</p>
+**Metodologias**
+`Scrum` `XP`
 
 ---
 
-<h2>💼 Projetos em Destaque</h2>
+## 🚀 Projetos em Destaque
 
-<h3>📚 ASgen – Gerador Automático de Grades de Horário</h3>
-
-<p>
-Sistema acadêmico desenvolvido para automatização da geração de grades horárias.
-</p>
-
-<p>
-<strong>Tecnologias:</strong> Next.js • React • TailwindCSS • MUI • Axios
-</p>
-
-<p>
-🔗 <a href="https://github.com/automated-schedule-generate/asgen-web-ui">Ver Repositório</a>
-</p>
+### [ASgen – Gerador Automático de Grades de Horário](https://github.com/automated-schedule-generate/asgen-web-ui)
+Sistema acadêmico para automatização da geração de grades horárias.
+**Função:** Líder Técnica & Desenvolvedora Front-End · 2025 – Atual
+`Next.js` `React` `MUI` `TailwindCSS` `Axios`
 
 ---
 
-<h3>🤟 Glossário de Libras</h3>
-
-<p>
-Projeto voltado à acessibilidade e inclusão por meio da disponibilização de sinais em Libras.
-</p>
-
-<p>
-<strong>Tecnologias:</strong> Vue.js • Nuxt.js • Laravel • Axios
-</p>
-
-<p>
-🔗 <a href="https://github.com/Guilhermevalenca/brazilian-sign-language-project">Ver Repositório</a>
-</p>
-
----
-
-<h3>🏥 Periferia+Saúde</h3>
-
-<p>
+### Periferia+Saúde
 Aplicação voltada à divulgação de campanhas e pontos de atendimento do SUS.
-</p>
-
-<p>
-<strong>Tecnologias:</strong> Vue.js • Nuxt.js • Vuetify • Laravel
-</p>
+**Função:** Desenvolvedora Front-End · 2025 – Atual
+`Vue.js` `Nuxt.js` `Vuetify` `Laravel`
 
 ---
 
-<h3>🎓 SAEIFPE</h3>
+### [Glossário de Libras](https://github.com/Guilhermevalenca/brazilian-sign-language-project)
+Plataforma de acessibilidade e inclusão com disponibilização de sinais em Libras.
+**Função:** Líder Técnica & Desenvolvedora Front-End · 2025
+`Vue.js` `Nuxt.js` `Laravel` `Axios`
 
-<p>
+---
+
+### [SAEIFPE – Sistema de Acompanhamento de Egressos](https://github.com/Guilhermevalenca/SAEIFPE)
 Sistema desenvolvido para acompanhamento de alunos egressos do IFPE.
-</p>
-
-<p>
-<strong>Tecnologias:</strong> Vue.js • Vuetify • Laravel • Axios
-</p>
-
-<p>
-🔗 <a href="https://github.com/Guilhermevalenca/SAEIFPE">Ver Repositório</a>
-</p>
+**Função:** Líder Técnica Front-End · 2023
+`Vue.js` `Vuetify` `Axios` `Laravel`
 
 ---
 
-<h2>📖 Experiência Acadêmica</h2>
+## 🎓 Formação
 
-<ul>
-  <li>Bolsista do Programa de Educação Tutorial (PET)</li>
-  <li>Monitora de Desenvolvimento Web I</li>
-  <li>Monitora de Lógica de Programação e Estrutura de Dados</li>
-</ul>
+- **Tecnologia em Sistemas para Internet** — IFPE Campus Igarassu · 2024 – Atual (5º período)
+- **Técnico em Informática para Internet** — IFPE Campus Igarassu · 2022 – 2024
 
 ---
 
-<h2>🌱 Atualmente estudando</h2>
+## 📚 Experiência Acadêmica
 
-<ul>
-  <li>Arquitetura Front-End</li>
-  <li>Performance e otimização de aplicações web</li>
-  <li>UX/UI</li>
-  <li>Docker</li>
-  <li>Boas práticas em APIs REST</li>
-</ul>
+- Programa de Educação Tutorial (PET) — 2025.1 – Atual
+- Monitora de Desenvolvimento Web I — 2025.1
+- Monitora de Lógica de Programação e Estrutura de Dados — 2023.1 e 2024.1
 
 ---
 
-<h2>📫 Contato</h2>
+## 📬 Contato
 
-<ul>
-  <li>✉️ Email: claudianerodrigues365@gmail.com</li>
-  <li>💼 LinkedIn: <a href="https://linkedin.com/in/claudiane-rodrigues">linkedin.com/in/claudiane-rodrigues</a></li>
-  <li>💻 GitHub: <a href="https://github.com/RodriguesClaudiane">github.com/RodriguesClaudiane</a></li>
-</ul>
-
----
-
-<p align="center">
-⭐ Sempre buscando aprender, evoluir e desenvolver soluções que gerem impacto positivo.
-</p>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-claudiane--rodrigues-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/claudiane-rodrigues)
+[![Gmail](https://img.shields.io/badge/Gmail-claudianerodrigues365-D14836?style=flat&logo=gmail&logoColor=white)](mailto:claudianerodrigues365@gmail.com)
