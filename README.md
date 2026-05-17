@@ -4,12 +4,6 @@
 
 <h1>👋 Oi, eu sou Claudiane Rodrigues</h1>
 
-<h3>Front-End Developer • React • Vue • Next.js • Nuxt.js</h3>
-
-<p>
-Desenvolvendo interfaces modernas, acessíveis e funcionais.
-</p>
-
 <p>
 <a href="https://github.com/RodriguesClaudiane">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
