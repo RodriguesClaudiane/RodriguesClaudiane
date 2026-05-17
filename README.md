@@ -33,7 +33,7 @@ const claudiane = {
 
 <h2>🚀 Tecnologias</h2>
 
-<h3>Front-End</h3>
+<h3>🎨 Front-End</h3>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
@@ -54,7 +54,7 @@ const claudiane = {
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
 </p>
 
-<h2>Linguagens</h3>
+<h2>💻 Linguagens</h3>
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -64,7 +64,7 @@ const claudiane = {
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-<h2>Integração e APIs</h3>
+<h2>🔗 Integração e APIs</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square" />
@@ -72,7 +72,7 @@ const claudiane = {
 <img src="https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 
-<h2>Ferramentas</h3>
+<h2>🛠 Ferramentas</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -84,7 +84,7 @@ const claudiane = {
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-<h2>Bibliotecas e Gerenciamento de Estado</h3>
+<h2>📚 Bibliotecas e Gerenciamento de Estado</h3>
 
 <p>
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
@@ -92,3 +92,9 @@ const claudiane = {
 <img src="https://img.shields.io/badge/Pinia-FADA5E?style=flat-square" />
 <img src="https://img.shields.io/badge/Vuex-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
 </p>
+
+<div align="center">
+
+### 🚀 Tentando centralizar divs desde 2022.
+
+</div>
