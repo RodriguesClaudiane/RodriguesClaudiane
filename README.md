@@ -1,9 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Intel+One+Mono&size=25&pause=1000&color=30F700&width=1000&lines=console.log(%22Helo+World%2C+I'm+Claudiane+Rodrigues%22)" alt="Typing SVG" /></a>
-
 <div align="center">
-
+<h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Intel+One+Mono&size=25&pause=1000&color=30F700&width=1000&lines=console.log(%22Helo+World%2C+I'm+Claudiane+Rodrigues%22)" alt="Typing SVG" /></a>
-
+</h1>
 <p>
 <a href="https://github.com/RodriguesClaudiane">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -47,13 +45,13 @@ const claudiane = {
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
 </p>
 
-<h3>Linguagens</h3>
+<h2>Linguagens</h3>
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,php" />
 </p>
 
-<h3>Integração e APIs</h3>
+<h2>Integração e APIs</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square" />
@@ -61,13 +59,13 @@ const claudiane = {
 <img src="https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 
-<h3>Ferramentas</h3>
+<h2>Ferramentas</h3>
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
-<h3>Bibliotecas e Gerenciamento de Estado</h3>
+<h2>Bibliotecas e Gerenciamento de Estado</h3>
 
 <p>
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
