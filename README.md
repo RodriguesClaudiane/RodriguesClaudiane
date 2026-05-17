@@ -75,7 +75,13 @@ const claudiane = {
 <h2>Ferramentas</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 <h2>Bibliotecas e Gerenciamento de Estado</h3>
