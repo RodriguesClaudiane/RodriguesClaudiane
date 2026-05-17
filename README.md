@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ubuntu&size=40&pause=1000&width=435&lines=console.log(%22Helo+World!%22)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Intel+One+Mono&size=25&pause=1000&color=30F700&width=450&lines=console.log(%22Helo+World!%22)" alt="Typing SVG" /></a>
 
 # Claudiane Rodrigues Alves
 
