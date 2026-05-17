@@ -36,7 +36,8 @@ const claudiane = {
 <h3>Front-End</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,tailwind,bootstrap" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 </p>
 
 <p>
