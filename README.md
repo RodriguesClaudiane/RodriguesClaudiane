@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/claudiane-rodrigues">
+<a href="https://linkedin.com/in/claudiane-rodrigues-979772220">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
