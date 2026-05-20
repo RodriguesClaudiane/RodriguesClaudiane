@@ -33,7 +33,7 @@ const claudiane = {
 
 <h2>🚀 Tecnologias</h2>
 
-<h3>🎨 Front-End</h3>
+<h3>Front-End</h3>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
@@ -95,6 +95,6 @@ const claudiane = {
 
 <div align="center">
 
-### 🚀 Tentando centralizar divs desde 2022.
+###Tentando centralizar divs desde 2022.
 
 </div>
