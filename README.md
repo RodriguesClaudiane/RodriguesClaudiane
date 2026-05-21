@@ -3,15 +3,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Intel+One+Mono&size=25&pause=1000&color=30F700&width=800&lines=console.log(%22Hello+World%2C+I'm+Claudiane+Rodrigues!%22)" alt="Typing SVG" /></a>
 </h1>
 <p>
-<a href="https://github.com/RodriguesClaudiane">
+<a href="https://github.com/RodriguesClaudiane" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/claudiane-rodrigues-979772220">
+<a href="https://linkedin.com/in/claudiane-rodrigues-979772220" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:claudianerodrigues365@gmail.com">
+<a href="mailto:claudianerodrigues365@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 </p>
