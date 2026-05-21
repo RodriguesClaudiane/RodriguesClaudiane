@@ -21,15 +21,15 @@
 
 <h2>✨ Sobre mim</h2>
 
-<pre>
+
+```javascript  
 const claudiane = {
   foco: 'Front-End Development',
   stack: ['React', 'Next.js', 'Vue.js', 'Nuxt.js'],
   interesses: ['UX/UI', 'Acessibilidade', 'Arquitetura Front-End'],
   atualmente: 'Construindo aplicações web e aprendendo coisas novas 🚀'
 }
-</pre>
-
+```
 
 <h2>🚀 Tecnologias</h2>
 
